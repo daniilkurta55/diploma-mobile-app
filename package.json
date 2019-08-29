@@ -7,13 +7,13 @@
     "test": "jest"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "firebase": "^5.11.1",
     "jsrsasign": "^8.0.12",
     "moment": "^2.24.0",
-    "native-base": "^2.12.1",
+    "native-base": "^2.13.5",
     "react": "16.8.3",
-    "react-native": "^0.59.6",
+    "react-native": "^0.60.5",
     "react-native-document-picker": "^2.3.0",
     "react-native-fs": "^2.13.3",
     "react-native-gesture-handler": "^1.2.0",
