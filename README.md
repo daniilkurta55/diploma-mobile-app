@@ -5,7 +5,7 @@ Private key never leaves mobile storage. Signature verification proceed on the s
 asymmetric cryptography principles along with RSA signing and verification algorithms.
 
 ### Demo
-![](signer-gif.gif)
+![](signer-gif.gif =270x540)
 
 ### Set up
 1. download diploma-mobile-app<br/>
