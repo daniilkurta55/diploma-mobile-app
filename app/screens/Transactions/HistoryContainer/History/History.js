@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {FlatList, RefreshControl, StyleSheet, ScrollView} from 'react-native';
+import {FlatList, RefreshControl, ScrollView, StyleSheet} from 'react-native';
 
 import {Body, Container, Content, Icon, Left, ListItem, Right, Spinner, Text, Thumbnail, Toast} from 'native-base';
 import {TransactionsServices} from './../../Services/Services';

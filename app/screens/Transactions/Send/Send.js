@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
-import {FlatList, RefreshControl, StyleSheet, ScrollView} from 'react-native';
-import {Body, Container, Content, Icon, Left, ListItem, Right, Text, Thumbnail, Toast} from 'native-base';
+import {FlatList, RefreshControl, ScrollView, StyleSheet} from 'react-native';
+import {Body, Container, Icon, Left, ListItem, Right, Text, Thumbnail, Toast} from 'native-base';
 import {TransactionsServices} from '../Services/Services';
-import {setRefreshing, setLoading} from '../../../redux/actions';
+import {setLoading, setRefreshing} from '../../../redux/actions';
 import {connect} from 'react-redux';
 import {DocumentPicker, DocumentPickerUtil} from 'react-native-document-picker';
 import RNFS from 'react-native-fs';

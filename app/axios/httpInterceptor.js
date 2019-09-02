@@ -2,9 +2,7 @@ import store from './../redux/store';
 
 export class HttpInterceptor {
   static configure(httpClient) {
-    // Add a request interceptor
     httpClient.interceptors.request.use(this.requestInterceptor);
-    // Add a response interceptor
     httpClient.interceptors.response.use(this.responseInterceptor, this.responseError);
   }
 

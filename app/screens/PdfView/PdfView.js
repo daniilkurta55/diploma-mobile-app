@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Dimensions, StyleSheet} from 'react-native';
 
-import {Body, Container, Content, Icon, Left, ListItem, Right, Spinner, Text, Thumbnail, Toast} from 'native-base';
+import {Container, Content} from 'native-base';
 import Pdf from 'react-native-pdf';
 
 class PdfView extends Component {
