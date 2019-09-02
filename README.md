@@ -7,7 +7,7 @@ asymmetric cryptography principles along with RSA signing and verification algor
 ### Demo
 <img src="signer-gif.gif" width="270" height="540" />
 
-### Set up
+### Setup
 1. download diploma-mobile-app<br/>
 2. npm install - install all dependencies
 3. react-native link - link all react-native dependencies
