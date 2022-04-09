@@ -10,7 +10,7 @@
     "axios": "^0.18.1",
     "firebase": "^5.11.1",
     "jsrsasign": "^8.0.12",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "native-base": "^2.13.5",
     "react": "16.8.3",
     "react-native": "^0.60.5",
